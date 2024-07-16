@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <br />
     <a href="https://youtu.be/cuzw4vL1z5E?feature=shared" target="_blank">
@@ -448,3 +449,7 @@ And if you're hungry for more than just a course and want to understand how we l
 </a>
 
 #
+=======
+# travel-ui-ux-app
+A Fully Responsive Modern UI/UX Website using React.js, Next.js 13 and Tailwind CSS.
+>>>>>>> 413c367f2fe15b8f32841393f1592aacd46f8d85
